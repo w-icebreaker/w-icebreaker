@@ -40,9 +40,9 @@ I'm a passionate **Full Stack AI Developer** with a strong foundation in buildin
 
 ### 📫 Let's Connect
 
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/w.icebreaker)
-- Portfolio: [yourportfolio.com](https://w.icebreaker.ai)
-- Twitter: [@yourhandle](https://twitter.com/w.icebreaker)
+- LinkedIn: [w.icebreaker](https://www.linkedin.com/in/w.icebreaker)
+- Portfolio: [w.icebreaker.ai](https://w.icebreaker.ai)
+- Twitter: [@w.icebreaker](https://twitter.com/w.icebreaker)
 - Email: w.icebreaker@gmail.com
 
 ---
