@@ -34,7 +34,6 @@ I'm a passionate **Full Stack AI Developer** with a strong foundation in buildin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w-icebreaker&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w-icebreaker&theme=tokyonight" width="47%" />
 </p>
 
 ---
